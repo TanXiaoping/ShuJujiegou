@@ -1,0 +1,12 @@
+﻿  pch.cpp
+c:\users\t\source\repos\saolei\saolei\pch.h(3): error C3873: “0x2592”: 不允许将此字符作为标识符的第一个字符
+c:\users\t\source\repos\saolei\saolei\pch.h(4): error C3873: “0x2592”: 不允许将此字符作为标识符的第一个字符
+c:\users\t\source\repos\saolei\saolei\pch.h(5): error C3873: “0x2592”: 不允许将此字符作为标识符的第一个字符
+c:\users\t\source\repos\saolei\saolei\pch.h(6): error C3873: “0x2592”: 不允许将此字符作为标识符的第一个字符
+c:\users\t\source\repos\saolei\saolei\pch.h(7): error C3873: “0x2592”: 不允许将此字符作为标识符的第一个字符
+c:\users\t\source\repos\saolei\saolei\pch.h(8): error C3873: “0x2592”: 不允许将此字符作为标识符的第一个字符
+c:\users\t\source\repos\saolei\saolei\pch.h(9): error C3873: “0x2592”: 不允许将此字符作为标识符的第一个字符
+c:\users\t\source\repos\saolei\saolei\pch.h(10): error C3873: “0x2592”: 不允许将此字符作为标识符的第一个字符
+c:\users\t\source\repos\saolei\saolei\pch.h(11): error C3873: “0x2592”: 不允许将此字符作为标识符的第一个字符
+c:\users\t\source\repos\saolei\saolei\pch.h(12): error C3873: “0x2592”: 不允许将此字符作为标识符的第一个字符
+c:\users\t\source\repos\saolei\saolei\pch.h(13): error C3873: “0x2592”: 不允许将此字符作为标识符的第一个字符

@@ -1,0 +1,4 @@
+﻿  SORT.cpp
+c:\users\t\desktop\arithmetic\sort\sort\sort.cpp(55): error C2143: 语法错误: 缺少“;”(在“)”的前面)
+c:\users\t\desktop\arithmetic\sort\sort\sort.cpp(58): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+c:\users\t\desktop\arithmetic\sort\sort\sort.cpp(62): warning C4326: “main”的返回类型应为“int”而非“void”
